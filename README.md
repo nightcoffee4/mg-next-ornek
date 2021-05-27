@@ -5,7 +5,7 @@
 
 ## How to start?
 
-### `yarn start`
+### `npm run dev`
 
 
 ![image](./next-ornek.png)
