@@ -5,7 +5,7 @@
 
 ## How to start?
 
-### `npm run dev`
+### `> npm run dev`
 
 
 ![image](./next-ornek.png)
