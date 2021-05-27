@@ -9,4 +9,5 @@
 
 
 ![image](./next-ornek.png)
+![image](./next-ornek2.png)
 
